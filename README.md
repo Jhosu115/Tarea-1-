@@ -34,7 +34,7 @@
 
 ### 4.Video 
 
-[![Video de la explicacion de 4 ejercicios](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/h63cEWPaZ6U)
+[![Video de la explicacion de 4 ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/Diapositiva1.PNG)](https://youtu.be/h63cEWPaZ6U)
 
 
 ### 5. Conclusiones
