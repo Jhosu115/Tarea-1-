@@ -32,5 +32,34 @@
 
 [Resolucion de Ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/ejecicios%20circuitos.docx)
 
+### 4.Video 
 
+[![Video de la explicacion de 4 ejercicios](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/h63cEWPaZ6U)
+
+
+### 5. Conclusiones
+
+* Tras Comprender los fundamentos básicos de los circuitos eléctricos se logró resolver los ejercicios planteados del capítulo 1 y capítulo 2 utilizando la información del libro proporcionado y de la información seleccionada en la web adquiriendo un mejor entendimiento de los temas tratados en los capítulos mencionados.
+
+* Cómo grupo se concluyo que los temas que planteamos en estos capítulos nos sirven  como base nosotros los estudiantes y reforzar nuestro conocimientos.
+
+* Se indagó en fuentes externas más información de la que ya daba el libro, logrando así un mejor resultado al momento de realizar la tarea.
+
+### 6. Bibliografia
+
+* https://www.redeweb.com/actualidad/resistencia-electrica/
+
+* https://www.areatecnologia.com/electricidad/resistencia-electrica.html
+
+* https://www.fisicalab.com/apartado/resistencia-electrica-conductor
+
+* https://www.fisicalab.com/apartado/resistencia-electrica-conductor
+
+* https://illustrationprize.com/es/27-voltage-source-and-current-source.html
+
+* https://www.finaltest.com.mx/product-p/art-6.htm
+
+* https://www.fisicalab.com/apartado/unidad-de-carga-electrica
+
+* https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido/42_medida_de_voltajes.html
 
