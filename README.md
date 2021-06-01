@@ -32,3 +32,5 @@
 
 [Resolucion de Ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/ejecicios%20circuitos.docx)
 
+
+
