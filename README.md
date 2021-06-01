@@ -1,5 +1,14 @@
 # Tarea-1-
+
 ## Fundamentos de Circuitos eléctricos Capítulo 1 y 2 
+
+## Integrantes:
+
+1. Alex Aimacaña
+
+2. Ariel Muñoz
+
+3. Diego Núñez
 
 ### **Objetivo General**
 
@@ -17,4 +26,4 @@
 
 ### Marco Teórico 
 
-![Alt text](/path/to/img.jpg)
+![]
