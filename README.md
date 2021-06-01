@@ -10,11 +10,11 @@
 
 3. Diego Núñez
 
-### **Objetivo General**
+### 1. **Objetivo General**
 
 •	Comprender los fundamentos básicos de los circuitos eléctricos, mediante resolución de ejercicios para así poder conocer las propiedades de los elementos eléctricos propios de la ingeniería.
 
-### **Objetivos Específicos**
+### 1.1 **Objetivos Específicos**
 
 -Indagar en fuentes web conceptos que ayuden al entendimiento de la asignatura 
 
@@ -24,7 +24,11 @@
 
 -Experimentar a través de los simuladores las herramientas de medición
 
-### Marco Teórico 
+### 2. Marco Teórico 
 
 ![](https://github.com/Jhosu115/Tarea-1-/blob/imagen/imagen_2021-06-01_000605.png)
+
+### 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+[Resolucion de Ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/ejecicios%20circuitos.docx)
 
