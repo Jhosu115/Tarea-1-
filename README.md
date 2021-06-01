@@ -26,4 +26,5 @@
 
 ### Marco Teórico 
 
-![]
+![](https://github.com/Jhosu115/Tarea-1-/blob/imagen/imagen_2021-06-01_000605.png)
+
