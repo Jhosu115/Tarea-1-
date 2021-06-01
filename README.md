@@ -30,7 +30,7 @@
 
 ### 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-[Resolucion de Ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/ejecicios%20circuitos.docx)
+[Resolucion de Ejercicios](https://github.com/Jhosu115/Tarea-1-/blob/imagen/ejecicios%20circuitos.pdf)
 
 ### 4.Video 
 
